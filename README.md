@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Retzonel...
+
+I just wanna learn and build stuff
 
 <!--
 **retzonel/retzonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
