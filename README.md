@@ -1,21 +1,32 @@
-## Hi there 👋
-I'm Retzonel...
+# 👋 Hi, I'm Godswill, my folks call me Retzonel...
 
-I just wanna learn and build stuff
+🎮 I'm a **Unity Game Developer** and aspiriring Mobile App Developer with interest in building stuffs.
 
-<!--
-**retzonel/retzonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech & Tools I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 C# | Unity Engine  
+- 🎨 2D/3D Game Development  
+- 🌐 Cross-Platform Deployment  
+- 🧪 Git & GitHub for Version Control  
+- 🛠️ JetBrains Rider IDE  
+- 📋 Trello for collaboration and project management  
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=retzonel" alt="GitHub Streak" /></a>
+---
+
+## 🚀 Projects & Portfolio
+
+Check out my portfolio.
+
+🔗 **Portfolio**: [Website](retzonel.netlify.app)  
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating, learning, or just talking about game development.
+
+- 📧 **Email**: nwochagodswill@gmail.com
+- ▶️ [YouTube Channel](https://www.youtube.com/@retzonel)
+- X (@retzonel)
