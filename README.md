@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Godswill, my folks call me Retzonel...
+# 👋 Hi, I'm Godswill, but my folks call me Retzonel...
 
 🎮 I'm a **Unity Game Developer** and aspiriring Mobile App Developer with interest in building stuffs.
 
@@ -6,7 +6,7 @@
 
 ## 🔧 Tech & Tools I Use
 
-- 🧠 C# | Unity Engine  
+- 🧠 C# | Unity Engine, Flutter | Dart 
 - 🎨 2D/3D Game Development  
 - 🌐 Cross-Platform Deployment  
 - 🧪 Git & GitHub for Version Control  
