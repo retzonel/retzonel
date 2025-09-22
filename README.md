@@ -19,7 +19,7 @@
 
 Check out my portfolio.
 
-🔗 **Portfolio**: [Website](retzonel.netlify.app)  
+🔗 **Portfolio**: [Website](https://retzonel.netlify.app/)  
 
 ---
 
