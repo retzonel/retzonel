@@ -10,7 +10,7 @@
 - 🎨 2D/3D Game Development  
 - 🌐 Cross-Platform Deployment  
 - 🧪 Git & GitHub for Version Control  
-- 🛠️ JetBrains Rider IDE  
+- 🛠️ JetBrains Rider IDE, VSCode
 - 📋 Trello for collaboration and project management  
 
 ---
